@@ -1,0 +1,7 @@
+# teacher-only material, kept local
+solutions/
+# original Kaggle downloads (rebuild data with scripts/make_splits.py)
+raw/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
